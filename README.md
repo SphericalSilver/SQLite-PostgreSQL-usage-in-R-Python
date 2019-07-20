@@ -25,4 +25,9 @@ The `factbook.db` database built off information from the [CIA World Factbook](h
 
 ## 3) Building a Sports Database.
 
+- Data from 4 different files was compiled and organized.
+- A normalized schema was then constructed to represent the most efficient way of representing the information from each database, organized such that redundancies and repetitions in data were minimized, and data integrity was maximized:
+
 ![here](https://i.gyazo.com/869320f0dbe2516b3d465827733ad724.png)
+
+- Data was imported into SQL to create and populate the tables, to construct the finished database.
