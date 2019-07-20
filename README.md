@@ -1,5 +1,5 @@
 # Overview
-This repository hosts projects where PostgreSQL and SQLite were using in conjunction with R/Pythong, to either query, modify, or create a database.
+This repository hosts projects where PostgreSQL and SQLite were using in conjunction with R/Python (run in a Jupyter Notebook environment), to either query, modify, or create a database.
 
 
 ## 1) Anwering Business Questions using SQL
