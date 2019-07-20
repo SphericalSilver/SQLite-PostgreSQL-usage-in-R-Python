@@ -6,6 +6,9 @@ This repository hosts projects where PostgreSQL and SQLite were using in conjunc
 SQLite and R were used to query a database (`chinook.db`), to answer a variety of business questions for a music company to help them make better business decisions, pertaining to:
 
 - Determining Genre Popularity
+
+Gauging which genres were the most popular, the margins by which popularity varied, and also additional questions like whether it might be worth looking into a genre you don't have available because of its popularity.
+
 - Employee Performance
 - Customer-base Demographics and Sales Revenue by Country
 - Customer Purchase Behavior
