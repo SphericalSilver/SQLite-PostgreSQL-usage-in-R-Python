@@ -2,7 +2,7 @@
 This repository hosts projects where PostgreSQL and SQLite were using in conjunction with R/Python (run in a Jupyter Notebook environment), to either query, modify, or create a database.
 
 
-## 1) Anwering Business Questions using SQL
+## 1) Answering Business Questions using SQL
 SQLite and R were used to query a database (`chinook.db`), to answer a variety of business questions for a music company to help them make better business decisions, pertaining to:
 
 - Determining Genre Popularity
