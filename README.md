@@ -3,7 +3,7 @@ This repository hosts projects where PostgreSQL and SQLite were using in conjunc
 
 
 ## 1) Anwering Business Questions using SQL
-SQLite and R were used to answer a variety of business questions for a music company to help them make better business decisions, pertaining to:
+SQLite and R were used to query a database (`chinook.db`), to answer a variety of business questions for a music company to help them make better business decisions, pertaining to:
 
 - Determining Genre Popularity
 - Employee Performance
@@ -20,6 +20,8 @@ Visualizations depicting these findings were created through the ggplot2 library
 
  
 ## 2) Analyzing CIA Factbook.
+
+The `factbook.db` database built off information from the [CIA World Factbook](https://www.cia.gov/library/publications/the-world-factbook/) was queried to convert the information within the database into a form that makes it easier for us to learn about each country.
 
 ## 3) Building a Sports Database.
 
