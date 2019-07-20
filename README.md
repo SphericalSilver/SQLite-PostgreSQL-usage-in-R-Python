@@ -31,7 +31,7 @@ Visualizations depicting these findings were created through the ggplot2 library
 ![Total Sales by country](https://i.gyazo.com/e81231d3210b9732f1e0bbd64826b6f9.png)
 
  
-## 2) Querying and Analyzing CIA Factbook.
+## 2) [Querying and Analyzing CIA Factbook](https://github.com/SphericalCopper/SQLite-PostgreSQL-usage-in-R-Python/blob/master/CIA%20Factbook%20R%20SQL.ipynb)
 
 The `factbook.db` database built off information from the [CIA World Factbook](https://www.cia.gov/library/publications/the-world-factbook/) was queried to convert the information within the database into a form that makes it easier for us to learn about each country, particularly on the following aspects:
 
@@ -45,7 +45,7 @@ Since the `factbook.db` was from the year 2015, comparisons against present-day 
 
 
 
-## 3) Building a Sports Database.
+## 3) [Building a Sports Database](https://github.com/SphericalCopper/SQLite-PostgreSQL-usage-in-R-Python/blob/master/Creating%20a%20Sports%20Database%20(Baseball).ipynb)
 
 - Data from 4 different files was compiled and organized.
 
