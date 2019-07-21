@@ -22,7 +22,7 @@ Learning more about how much sales revenue comes from each country, and how cust
 Evaluated customer purchase behaviours (i.e. whether they purchased tracks separately or preferred to buy albums) and came to the conclusion that it was not worth altering the existing business practice of having a large amount of stocked albums, since nearly 20% of all sales, and 1/3rd of revenue entirely came from albums.
 
 
-Visualizations depicting these findings were created through the ggplot2 library of R.
+Visualizations depicting these findings were created through the `ggplot2` library in R.
 
 ![Genre Popularity](https://i.gyazo.com/47c2534fa48a10c1a3efaa9ac06e2eaa.png)
 
