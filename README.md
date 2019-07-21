@@ -49,7 +49,7 @@ Since the `factbook.db` was from the year 2015, comparisons against present-day 
 
 - Data from 4 different files was compiled and organized.
 
-- A normalized schema was then constructed to represent the most efficient way of representing the information from each database, organized such that redundancies and repetitions in data were minimized, and data integrity was maximized:
+- A normalized schema was then constructed **to represent the most efficient way of representing the information from each database, organized such that redundancies and repetitions in data were minimized, and data integrity was maximized**.
 
 - Essentially converted and normalized the initial data sets into several separate tables using SQL, and created a robust database of game-level statistics.
 
